@@ -27,6 +27,16 @@ All examples are based on Greek tax standards. Formulas and number formats are a
 1. Open `ergasia_3.xlsx`
 2. Input net price and select the applicable VAT rate
 3. The spreadsheet automatically computes VAT and total amounts
+
+
+## 🎓 Credits
+
+Project developed for academic use as part of coursework, 2025.
+
+
+
+
+
 4. Use `ΠΑΡΑΔΕΙΓΜΑΤΑ.xls` for extra practice and comparison
 
 ## 📄 License
