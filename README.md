@@ -1,3 +1,9 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![Made with Excel](https://img.shields.io/badge/Made_with-Excel-blue)
+![Domain](https://img.shields.io/badge/Domain-Tax_Calculation-red)
+![Country](https://img.shields.io/badge/Country-Greece-lightgrey)
+![Complexity](https://img.shields.io/badge/Includes-VAT_&_Scenario_Analysis-brightgreen)
+
 # Excel VAT Analysis – Greek Tax Scenarios
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
